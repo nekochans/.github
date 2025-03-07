@@ -1,3 +1,5 @@
+<!-- (Copilot Review への依頼: レビューコメントは日本語で記載してください -->
+
 # issueURL
 
 [required]
